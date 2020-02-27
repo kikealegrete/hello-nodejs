@@ -12,6 +12,10 @@
 		{
 			"name": "DO101-apps-1",
 			"path": "DO101-apps-1"
+		},
+		{
+			"name": "DO101-apps",
+			"path": "DO101-apps\\DO101-apps"
 		}
 	],
 	"settings": {}
